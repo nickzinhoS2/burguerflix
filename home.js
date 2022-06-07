@@ -1,0 +1,1 @@
+confirm('deseja receber notificões')
